@@ -1,6 +1,6 @@
 ### Hello, Devs!
 
-Tenho 27 anos, moro em Osasco/SP e sou iniciante no universo da programação e apaixonada por cachorros! Descobrindo e aprendendo algo novo a cada dia! ❤ 
+Tenho 27 anos, moro em Osasco/SP. Sou iniciante no universo da programação e apaixonada por cachorros! Descobrindo e aprendendo algo novo a cada dia! ❤ 
 
   
  ### Ferramentas e Tecnologias
