@@ -2,11 +2,9 @@
 
 Me chamo Camila, tenho 28 anos, moro em Osasco/SP. Sou iniciante no universo da programação e apaixonada por cachorros! 
 
-Cursando ADS 
+Cursando ADS 👩‍💻
 
-Meu foco atualmente está em Front-end
-
-Descobrindo e aprendendo algo novo a cada dia! 
+Meu foco atualmente está em Front-end 
 
  
 <div>
