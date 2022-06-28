@@ -9,9 +9,16 @@ Meu foco atualmente está em Front-end
  
 <div>
 <a href="https://github.com/camilabsamogyi">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilabsamogyi&layout=compact&langs_count=7&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilabsamogyi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilabsamogyi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilabsamogyi&layout=compact&langs_count=7&theme=tokyonight"/>
+
+ </div>
+ 
+
+
+
 
 ### ❤️ Let's get connected:
 
