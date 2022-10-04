@@ -1,11 +1,13 @@
 ### Hi! 🙋‍♀️
 
+##
+
 Me chamo Camila, tenho 28 anos, moro em Ubatuba/SP. Sou iniciante no universo da programação e apaixonada por cachorros! 
 
 Cursando ADS 👩‍💻
 
 Meu foco atualmente está em Front-end 
-
+##
 
  ### ⚒️ Technologies e Tools
  
@@ -18,6 +20,7 @@ Meu foco atualmente está em Front-end
   
 </div>
 
+## 
 
 ### ❤️ Let's get connected
 
@@ -28,8 +31,8 @@ Meu foco atualmente está em Front-end
 
 <div align="center"><br>
   <a href="https://github.com/camilabsamogyi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilabsamogyi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilabsamogyi&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=camilabsamogyi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilabsamogyi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
