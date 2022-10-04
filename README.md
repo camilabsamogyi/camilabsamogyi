@@ -7,7 +7,7 @@ Cursando ADS 👩‍💻
 Meu foco atualmente está em Front-end 
 
  
-<div >
+<div align="center">
   <a href="https://github.com/camilabsamogyi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilabsamogyi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilabsamogyi&layout=compact&langs_count=7&theme=dracula"/>
@@ -15,13 +15,13 @@ Meu foco atualmente está em Front-end
 
 
 
-### ❤️ Let's get connected:
+### ❤️ Let's get connected
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-brait-samogyi-a1b683191)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail)
   
 
- ### ⚒️ Technologies e Tools use:
+ ### ⚒️ Technologies e Tools
  
  <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
