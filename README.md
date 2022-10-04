@@ -31,7 +31,7 @@ Meu foco atualmente está em Front-end
 
 <div align="center"><br>
   <a href="https://github.com/camilabsamogyi">
-  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=camilabsamogyi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=camilabsamogyi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilabsamogyi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
