@@ -1,4 +1,4 @@
-### Hi! 🙋‍♀️
+### Olá! 🙋‍♀️
 
 ##
 
@@ -6,7 +6,7 @@ Me chamo Camila, tenho 28 anos, moro em Ubatuba/SP. Sou iniciante no universo da
 
 Cursando ADS 👩‍💻
 
-Meu foco atualmente está em Front-end 
+Meu foco atualmente está em Front-end.
 ##
 
  ### ⚒️ Technologies e Tools
