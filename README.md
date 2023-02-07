@@ -2,19 +2,23 @@
 
 ##
 
-Me chamo Camila, tenho 28 anos, moro em Ubatuba/SP. Sou iniciante no universo da programação e apaixonada por cachorros! 
+Me chamo Camila, tenho 28 anos, moro em Ubatuba/SP, iniciante no universo da programação e apaixonada por cachorros! 
 
-Cursando ADS 👩‍💻
+Cursando 2° período em Análise e Desenvolvimento de Sistemas. 👩‍💻
 
-Meu foco atualmente está em Front-end.
+Tenho interesse en trabalhar com desenvolvento Front-end.
+
+Me esforçando dia após dia, aprendendo cada vez mais, com foco em conquistar minha primeira vaga!
+
+
 ##
 
  ### ⚒️ Technologies e Tools
  
  <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   
