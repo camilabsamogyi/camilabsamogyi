@@ -2,11 +2,13 @@
 
 ##
 
-Me chamo Camila, tenho 28 anos, moro em Ubatuba/SP, iniciante no universo da programação e apaixonada por cachorros! 
+Me chamo Camila, tenho 28 anos, moro em Ubatuba/SP.
+
+Iniciante no universo da programação e apaixonada por cachorros! 
 
 Cursando 2° período em Análise e Desenvolvimento de Sistemas. 👩‍💻
 
-Tenho interesse en trabalhar com desenvolvimento Front-end.
+Tenho interesse em trabalhar com desenvolvimento Front-end.
 
 Me esforçando dia após dia, aprendendo cada vez mais, com foco em conquistar minha primeira vaga!
 
