@@ -2,15 +2,13 @@
 
 ##
 
-Me chamo Camila, tenho 30 anos, moro em Ubatuba/SP.
+Me chamo Camila e moro em Ubatuba/SP.
 
-Iniciante no universo da programação e apaixonada por cachorros! 
+Apaixonada pelo universo da tecnologia! 
 
-Cursando 4° período em Análise e Desenvolvimento de Sistemas. 👩‍💻
+Formada em Análise e Desenvolvimento de Sistemas. 👩‍💻
 
-Tenho interesse em trabalhar com desenvolvimento Front-end.
 
-Me esforçando dia após dia, aprendendo cada vez mais, com foco em conquistar minha primeira vaga!
 
 
 ##
